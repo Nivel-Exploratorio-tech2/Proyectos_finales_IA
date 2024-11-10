@@ -9,39 +9,40 @@ Este repositorio contiene varios proyectos de inteligencia artificial aplicados 
 
 ```plaintext
 Proyecto-General-IA/
-├── Proyecto1-Modelo-Agrupación/
-│   ├── data/
-│   ├── notebooks/
-│   ├── scripts/
-│   └── README.md
-├── Proyecto2-Cuencas/
-│   ├── data/
-│   ├── notebooks/
-│   ├── scripts/
-│   └── README.md
-├── Proyecto3-Canasta-Familiar/
-│   ├── data/
-│   ├── notebooks/
-│   ├── scripts/
-│   └── README.md
-├── Proyecto4-Segmentacion-Mercados-Productos/
-│   ├── data/
-│   ├── notebooks/
-│   ├── scripts/
-│   └── README.md
-├── Proyecto5-Modelo-Predictivo-Redes-Sociales/
-│   ├── data/
-│   ├── notebooks/
-│   ├── scripts/
-│   └── README.md
-└── README.md
+├── README.md
+└── Proyects
+    ├── Proyecto1-Modelo-Agrupación/
+    │   ├── 1. Datos/
+    │   ├── 2. Códigos/
+    │   ├── 3. Reportes e informes/
+    │   └── README.md
+    ├── Proyecto2-Cuencas/
+    │   ├── 1. BASES DE DATOS SELECCIONADAS/
+    │   ├── 2. CODES/
+    │   ├── 3. DOCUMENTO PROYECTO/
+    │   └── README.md
+    ├── Proyecto3-Canasta-Familiar/
+    │   ├── Base de datos final/
+    │   ├── Codigo/
+    │   ├── Informe/
+    │   └── README.md
+    ├── Proyecto4-Segmentacion-Mercados-Productos/
+    │   ├── data/
+    │   ├── Codigo/
+    │   ├── Documentos/
+    │   └── README.md
+    └── Proyecto5-Modelo-Predictivo-Redes-Sociales/
+        ├── data/
+        ├── Codigo/
+        ├── Documentos/
+        └── README.md
 ```
 
 Cada proyecto tiene su propia carpeta con una estructura similar:
 
 - `data/`: Contiene los datos utilizados para el proyecto.
-- `notebooks/`: Incluye los notebooks de Jupyter que contienen los análisis y modelos.
-- `scripts/`: Scripts en Python para ejecutar el modelo y otras tareas relacionadas.
+- `Codigo/`: Incluye los Codigo de Jupyter que contienen los análisis y modelos.
+- `Informes o Documentos/`: Docuemntos contiene la información del proyecto y también la presentación.
 - `README.md`: Explicación específica del proyecto, su objetivo, datos y estructura.
 
 ## Descripción de los Proyectos
