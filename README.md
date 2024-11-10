@@ -1,8 +1,3 @@
-Aquí tienes una estructura sugerida para el archivo `README.md` principal que se ubicará en la raíz de tu repositorio y que describe la estructura de carpetas y el contenido de cada proyecto. Esta estructura permitirá a los usuarios entender rápidamente el propósito y la organización de cada grupo de proyectos.
-
-### `README.md` Principal en la Raíz
-
-```markdown
 # Proyecto General de Inteligencia Artificial
 
 Este repositorio contiene varios proyectos de inteligencia artificial aplicados en diferentes áreas. Cada carpeta corresponde a un grupo específico que aborda problemas y objetivos únicos. A continuación, se detalla la estructura del repositorio y el contenido de cada carpeta.
