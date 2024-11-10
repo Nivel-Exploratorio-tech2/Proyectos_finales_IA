@@ -1,5 +1,3 @@
-Aquí tienes una estructura sugerida para el archivo `README.md` principal que se ubicará en la raíz de tu repositorio y que describe la estructura de carpetas y el contenido de cada proyecto. Esta estructura permitirá a los usuarios entender rápidamente el propósito y la organización de cada grupo de proyectos.
-
 ### `README.md` Principal en la Raíz
 
 ```markdown
